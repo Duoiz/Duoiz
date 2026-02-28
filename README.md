@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working my way through Computer Science<br>👯 I’m looking to collaborate on Ai learning<br>🤝 I’m looking for help with Ai APIs<br>🌱 I’m currently learning Data Structures and Algorithm
+🔭 I’m currently working my way through Computer Science<br>👯 I’m looking to collaborate on Ai learning<br>🤝 I’m looking for help with Ai APIs<br>🌱 I’m currently learning AI Engineering Computer Vision Architectures
 
 
 # 💻 Tech Stack:
